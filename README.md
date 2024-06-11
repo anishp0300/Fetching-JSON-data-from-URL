@@ -20,7 +20,7 @@ apk-> debug-> app-debug.apk which can directly be installed on any Android phone
 If the installation is to be done from Android Studio-
 
 - Make sure that you run Android Studio Jelly Fish.
-- Clone the repository
+- Find the .zip file to the project https://drive.google.com/drive/folders/1tQ2-TXXJHsN25ZKAaaPCuGBwlpPa0Geu?usp=sharing
 - Open the project in Android Studio
 - Connect a physical device or install a virtual device on Android Studio itself
 - Any version above Android 8.0 should be able to host this app
