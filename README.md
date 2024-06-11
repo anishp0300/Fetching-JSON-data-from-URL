@@ -15,7 +15,8 @@ FUNCTIONALITY - Fetches JSON data from a URL and displays the list which is sort
 - Items grouped by "listId"
 - Sorted the results first by "listID" then by "name" where items containing "name" as null or blank have been filtered out
 
-INSTALLATION- The repository comes with an apk file which can directly be installed on any Android phone. 
+INSTALLATION- The repository comes with an apk file-
+apk-> debug-> app-debug.apk which can directly be installed on any Android phone. 
 If the installation is to be done from Android Studio-
 
 - Make sure that you run Android Studio Jelly Fish.
